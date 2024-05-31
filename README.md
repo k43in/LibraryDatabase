@@ -1,5 +1,5 @@
 # LibraryDatabase
-# SQL Database Project
+
 
 ## Overview
 
