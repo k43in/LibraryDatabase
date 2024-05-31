@@ -1,10 +1,8 @@
-# LibraryDatabase
-
+# Library Management System
 
 ## Overview
 
-
-This project contains a collection of SQL scripts designed to create and manage a relational database. The scripts include the creation of tables, views, stored procedures, and test data, which can be used to set up and populate the database. These components are essential for building a robust database system that supports various operations and data manipulations.
+The Library Management System is designed to streamline the management of library resources, enhance the user experience for staff, and improve the efficiency of library operations. This project leverages a structured database and a set of stored procedures to handle various aspects of library management, including book inventory, user accounts, borrowing, and returning books.
 
 ![image](https://github.com/k43in/LibraryDatabase/assets/118012788/78b116e4-9324-468e-b63e-6f374764b88f)
 
