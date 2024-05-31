@@ -31,12 +31,5 @@ To set up the database, follow these steps:
 - A SQL database management system (DBMS) such as MySQL, PostgreSQL, or SQL Server.
 - A SQL client tool to execute the provided scripts.
 
-## Usage
-
-After setting up the database, you can interact with it using SQL queries to perform CRUD (Create, Read, Update, Delete) operations. The provided stored procedures and views will help in streamlining these interactions.
-
-## Contributing
-
-
 
 
